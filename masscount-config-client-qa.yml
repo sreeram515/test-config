@@ -43,3 +43,5 @@ VOCATION_GROUP_ID: 6f4b9543-197a-4173-a5eb-dc5dae85557b
 FINGERPRINT_GROUP_ID: 1a5e6045-80f1-42bf-b9d8-3495450217dd
 #HR Properties
 HR_GROUP_ID: e6aa05e9-422b-49ea-9632-e67cbc104a6e
+WRRAPER_SERVICE_SERVER_URL: https://masscount-service.cfapps.io/masscount-services/
+WRRAPER_DOMA_AUTH_SERVICE_SERVER_URL: https://auth-services.cfapps.io/
