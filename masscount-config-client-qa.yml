@@ -45,3 +45,20 @@ FINGERPRINT_GROUP_ID: 1a5e6045-80f1-42bf-b9d8-3495450217dd
 HR_GROUP_ID: e6aa05e9-422b-49ea-9632-e67cbc104a6e
 WRRAPER_SERVICE_SERVER_URL: https://masscount-service.cfapps.io/masscount-services/
 WRRAPER_DOMA_AUTH_SERVICE_SERVER_URL: https://auth-services.cfapps.io/
+#Mail Properties
+mail_smtp_host: smtp.gmail.com
+mail_smtp_port: 587
+mail_smtp_auth: true
+mail_smtp_starttls_enable: true
+mail_smtp_ssl_trust: smtp.gmail.com
+
+mail_username: iudasadmn@gmail.com
+mail_password: Iudas_2020
+mail_server: QA
+mail_ipaddress: QA
+mail_environment: QA
+mail_to: vkumar@criyaa.com,bboppella@criyaa.com
+mail_from: iudasadmn@gmail.com
+mail_replyTo: criyaa-dev@criyaa.com
+mail_subject: QA - MassCount encountered an issue
+mail_transportation: Yes
