@@ -52,13 +52,13 @@ mail_smtp_auth: true
 mail_smtp_starttls_enable: true
 mail_smtp_ssl_trust: smtp.gmail.com
 
-mail_username: iudasadmn@gmail.com
+mail_username: iudasdmn@gmail.com
 mail_password: Iudas_2020
 mail_server: QA
 mail_ipaddress: QA
 mail_environment: QA
 mail_to: vkumar@criyaa.com,bboppella@criyaa.com
-mail_from: iudasadmn@gmail.com
+mail_from: iudasdmn@gmail.com
 mail_replyTo: criyaa-dev@criyaa.com
 mail_subject: QA - MassCount encountered an issue
 mail_transportation: yes
