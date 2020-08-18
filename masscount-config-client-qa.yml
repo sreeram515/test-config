@@ -62,3 +62,13 @@ mail_from: iudasdmn@gmail.com
 mail_replyTo: criyaa-dev@criyaa.com
 mail_subject: QA - MassCount encountered an issue
 mail_transportation: yes
+#MDS Properties
+DATA_MIGRATION_SAVE_PERSON_SERVICE_SERVER_URL: http://10.2.2.137:8080/mds-services/api/v1.0/personInfo/personInfoDetails
+DATA_MIGRATION_GET_PREFIX_SUFFIX_SERVICE_SERVER_URL: http://10.2.2.137:8080/mds-services/api/v1.0/prefixsuffix/
+CP_SERVICE_SERVER_URL: http://10.2.2.137:8080/cp-services/
+CONSECRATED_PERSON_API: api/v1.0/consecrated-person
+CONSECRATED_PERSON_DELETE_API_BY_PERSON_ID: api/v1.0/consecrated-person/person/
+MDS_SERVICE_SERVER_URL: http://10.2.2.137:8080/mds-services/
+PERSON_INFO_API: api/v1.0/personInfo/personInfoDetails
+PERSON_INFO_DETAILS_BY_PERSONID: api/v1.0/persons/
+PERSON_LANGUAGE_API: api/v1.0/personLanguage/
