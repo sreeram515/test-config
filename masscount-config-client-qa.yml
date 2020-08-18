@@ -72,3 +72,24 @@ MDS_SERVICE_SERVER_URL: http://10.2.2.137:8080/mds-services/
 PERSON_INFO_API: api/v1.0/personInfo/personInfoDetails
 PERSON_INFO_DETAILS_BY_PERSONID: api/v1.0/persons/
 PERSON_LANGUAGE_API: api/v1.0/personLanguage/
+SEMINARIAN_PERSON_DELETE_API_BY_PERSON_ID: api/v1.0/person/
+SEMINARIAN_TO_PRIEST_CONVERT_BY_PERSON_ID: api/v1.0/person/convert/
+#fingerprint
+AUTH_SERVICE_SERVER_URL: http://10.2.2.137:8080/auth-service/
+FP_BCIA_8016_PDF_FILE: C:/conf/mds-conf/application/BCIA_8016.pdf
+DOCUMENTS_WORKSPACE: C:/workspace/mds/
+FP_BCIA_8016_PDF_DOCUMENTS_WORKSPACE: BCIA_8016_FORM/
+BG_CHECK_XML_WORKSPACE: BG_CHECK_XML_REQUEST/
+FINGERPRINT_SERVICE_SERVER_URL: http://10.2.2.137:8080/fingerprint-services/
+APPLICANT_URL: api/v1.0/applicant/
+#Screeningone XML Request credentials 
+USER_ID: RCBO_API
+PASSWORD: L%z6HMvyi2FO!6
+PRODUCT_TYPE: DEMO
+POST_BACK_URL: https://dev.dioceseoforange.org/bg-check-services/api/v1.0/bg-check-request
+SCREENINGONE_URL: https://lightning.instascreen.net/send/interchange
+#Documents
+DMS_WRRAPER_SERVICE_SERVER_URL: http://10.2.2.137:8080/
+DMS_SHAREPOINT_PROJECT: mds
+DMS_SHAREPOINT_URL: dev/projects
+DBQUERY_PATH: ../../../../dbqueries.xml
