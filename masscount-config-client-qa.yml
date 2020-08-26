@@ -94,6 +94,6 @@ DBQUERY_PATH: ../../../../dbqueries.xml
 #MDS ui Properties
 AUTH_SERVICE_WRRAPER_SERVER_URL: https://auth-services.cfapps.io/
 MDS_SERVICE_WRRAPER_SERVER_URL: http://mds-services.cfapps.io/mds-services/
-public static String CP_SERVICE_WRRAPER_SERVER_URL: https://cp-services.cfapps.io/cp-services/
-public static String FINGERPRINT_SERVICE_WRRAPER_SERVER_URL: http://fingerprint-services.cfapps.io/fingerprint-services/
-public static String SEMINARIAN_SERVICE_WRAPPER_SERVER_URL: https://seminarian-services.cfapps.io/seminarian-services/
+CP_SERVICE_WRRAPER_SERVER_URL: https://cp-services.cfapps.io/cp-services/
+FINGERPRINT_SERVICE_WRRAPER_SERVER_URL: http://fingerprint-services.cfapps.io/fingerprint-services/
+SEMINARIAN_SERVICE_WRAPPER_SERVER_URL: https://seminarian-services.cfapps.io/seminarian-services/
