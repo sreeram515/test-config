@@ -1,4 +1,3 @@
-
 db.datasourcename: java:comp/env/jdbc/domaAuthServiceDataSource
 AUTHORITY: https://login.windows.net/
 RCBO_GRAPH_URL: https://graph.windows.net/rcbo.org/me?api-version=1.6
