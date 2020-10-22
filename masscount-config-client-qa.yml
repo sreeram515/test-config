@@ -21,7 +21,7 @@ TENANT_ID: rcbo.org
 CLIENT_ID: e3ed5207-1763-4c3a-ae5e-f271ebd40d77
 CLIENT_SECRET: L5V8wVjjK+HE0amr9eJ2YDPuEC7HTZtBY9OIwm+buqc=
 #MASSCOUNT Properties
-MASSCOUNT_GROUP_ID: e9ea2f42-84ad-4656-b06f-046374befc40
+MASSCOUNT_GROUP_ID: 5bf93d8e-3ca3-406a-ab94-0ba6b3994c13
 #MDS Properties
 MDS_GROUP_ID: 6f4b9543-197a-4173-a5eb-dc5dae85557b
 #CONSECRATED Properties
@@ -51,13 +51,13 @@ mail_smtp_ssl_trust: smtp.gmail.com
 
 mail_username: iudasdmn@gmail.com
 mail_password: Iudas_2020
-mail_server: QA
-mail_ipaddress: QA
-mail_environment: QA
-mail_to: vkumar@criyaa.com,bboppella@criyaa.com
+mail_server: PROD
+mail_ipaddress: PROD
+mail_environment: PROD
+mail_to: criyaa-dev@criyaa.com,Mass_Adminone@it.rcbo.org
 mail_from: iudasdmn@gmail.com
 mail_replyTo: criyaa-dev@criyaa.com
-mail_subject: QA - MassCount encountered an issue
+mail_subject: PROD - MassCount encountered an issue
 mail_transportation: yes
 #MDS Properties
 DATA_MIGRATION_SAVE_PERSON_SERVICE_SERVER_URL: http://10.2.2.137:8080/mds-services/api/v1.0/personInfo/personInfoDetails
